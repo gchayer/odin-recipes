@@ -1,11 +1,37 @@
 * { 
     font-family: 'Times New Roman', Times, serif;
 }
-a {
-    color: blue;
-    font-size: 25px;
+
+body {
+    background-color: brown;
+}
+
+div {
+padding: 10px;
+margin: 40px;
+background-color: antiquewhite;
 }
 
 h1 {
+    color: black;
+    text-decoration: underline;
+    vertical-align:top;
 
+}
+
+h2 {
+    color:black;
+
+}
+
+.image {
+    height: 200px;
+    width: auto;
+    border: 5px solid black;
+    padding: 10px;
+    margin:10px;
+}
+
+a {
+   color: blue;
 }
